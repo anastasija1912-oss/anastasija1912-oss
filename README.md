@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Anastasija! 👋
 
-<!--
-**anastasija1912-oss/anastasija1912-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer student focused on building clean, modern, and responsive web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- **Tools & Version Control:** Git, GitHub, VS Code
+- **Design:** Figma, Canva
+
+---
+
+### 📌 Current Focus
+- 🎓 Studying Web Development at ITAcademy
+- 💻 Building frontend projects and responsive web layouts
+
+---
+
+### 📫 Connect with me
+- GitHub: [anastasija1912-oss](https://github.com/anastasija1912-oss)
+
